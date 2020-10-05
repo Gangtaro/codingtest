@@ -1,4 +1,8 @@
-hello world
+## README
+### coding test
+#### this work directory is for practicing coding test
+
+**hello world**
 this is practice for coding test
 
 I sure I can make better algorithm
