@@ -1,5 +1,3 @@
-### README.md
-
 this is for practice for **coding test**
 
 reference list
